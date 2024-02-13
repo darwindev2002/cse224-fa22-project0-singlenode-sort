@@ -93,3 +93,7 @@ indicates any differences that means that there is an error
 in your sort routine.
 
 You can try this verification for different file sizes, including 0 bytes and 100 bytes
+
+## Example Files
+- example1.dat - 11 entries
+- example2.dat - 10 kb (103 entries)
